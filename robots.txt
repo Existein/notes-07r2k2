@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Existein.github.io/notes-07r2k2/sitemap.xml
